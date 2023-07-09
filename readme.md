@@ -63,7 +63,7 @@ You can use  `git config --global --list` command to find out you current global
     You can connect your repository to your remote repo i.e. Github Repository by using the following commands: `git remote add remote_name github_url`.
 
     **For example** `git remote add origin https://github.com/mumer012001/hello-world.git`
-    **OR** If the remote named `origin` is already created then set the remote URL by using command:'git remote set-url origin github_url`.
+    **OR** If the remote named `origin` is already created then set the remote URL by using the command: `git remote set-url origin github_url`.
 
 16.  Use `git remote -v` command to see the connected remotes for the local repo.
 17. You can pull the changes from the remote to the local repo by using `git pull remotename branchname`.

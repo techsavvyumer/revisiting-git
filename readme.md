@@ -1,4 +1,5 @@
 # Revisiting My Git Knowledge: Basics Of Git
+In this repository, I tried to write down what I know about Git and GitHub workflow.
 
 ## What is Git?
 
